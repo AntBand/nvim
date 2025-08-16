@@ -1,4 +1,6 @@
 -- based on YT video by The Rad Lectures - A NeoVim Config for Minimalist
+-- testing push from HP with signed commits
+--
 vim.g.python3_host_prog = "/opt/homebrew/bin/python3" 
 
 -- theme & transparency
